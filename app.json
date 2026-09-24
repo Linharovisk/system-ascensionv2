@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "SYSTEM: Ascension",
+    "slug": "system-ascension",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#04070c",
+    "primaryColor": "#5aa9ff",
+    "android": {
+      "package": "com.matheus.systemascension",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "backgroundColor": "#04070c"
+      }
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-notifications"
+    ],
+    "extra": {
+      "eas": {}
+    }
+  }
+}
